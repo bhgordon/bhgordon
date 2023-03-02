@@ -1,5 +1,5 @@
 ## Hi there 👋
 ### I'm Ben.
 
-- UX Designer / Frontend Developer
+- Frontend Developer - UX Designer at mtc Berlin 
 - 🎓 Fullstack Teaching Assistant at [Le Wagon](https://www.lewagon.com/)
